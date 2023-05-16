@@ -14,8 +14,7 @@ const formData = {
   email: '',
   password : ''
 
-}
-
+};
 
 export const LoginPage = () => {
 
